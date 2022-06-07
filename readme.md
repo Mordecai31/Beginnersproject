@@ -7,7 +7,7 @@
 
 2) Employer is expected to receive a specific amount of money per hour
 
-3) Employers are also allow receiving bonus when they work for a certain hours
+3) Employers are also allowed to received bonus when they work for a certain hours
 ### The problem
 ***
 
